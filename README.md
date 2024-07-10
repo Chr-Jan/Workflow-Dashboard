@@ -9,11 +9,12 @@ This Streamlit app allows users to upload Excel files or connect to a SQL Server
 - **Upload Data**: Users can upload Excel files (.xlsx or .xls) to visualize their data.
 - **SQL Database Integration**: Connects to a SQL Server database to fetch and visualize data directly.
 - **Interactive Visualizations**: Offers dynamic charts powered by Plotly, including bar charts, line charts, and 3D scatter plots.
-- **Flexibility with Plotly**: Users can easily customize and add more charts by exploring additional options on the [Plotly website](https://plotly.com/python/).
+- **Flexibility with Plotly**: Users can easily customize and add more charts by exploring additional options on the <a href="https://plotly.com/python/" target="_blank">Plotly website</a>
+.
 
 
 ## Disclaimer
 
-Seed data was randomly generated with the help of [Mockaroo](https://www.mockaroo.com).
+Seed data was randomly generated with the help of <a href="https://www.mockaroo.com" target="_target">Mockaroo</a>
 
 The data in the Excel file is randomized and does not represent real human individuals.
