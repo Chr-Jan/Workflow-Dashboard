@@ -15,6 +15,6 @@ This Streamlit app allows users to upload Excel files or connect to a SQL Server
 
 ## Disclaimer
 
-Seed data was randomly generated with the help of <a href="https://www.mockaroo.com" target="_target">Mockaroo</a>
+Seed data was randomly generated with the help of <a href="https://www.mockaroo.com" target="_blank">Mockaroo</a>
 
 The data in the Excel file is randomized and does not represent real human individuals.
